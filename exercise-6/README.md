@@ -1,7 +1,10 @@
 # Exercise 4
 
-- /etc/apt/sources.list.d
-![/etc/apt/sources.list.d](./images/sources-list.png)
+- `git config-l`
+![git config](./images/git-config.png)
 
-- `php -v`
-![php-version](./images/php-v.png)
+- `git remote -v`
+![git remote](./images/git-remote.png)
+
+- `git log`
+![git log](./images/git-log.png)
